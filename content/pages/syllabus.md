@@ -39,19 +39,144 @@ The course is graded pass/fail. A passing grade will be awarded to students who 
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | An Introduction to Stem Cells |
-| 3 | Molecular and Cellular Bases of Organ Development |
-| 4 | Cloning of Somatic Cells by Nuclear Transfer |
-| 5 | Therapeutic Uses of Stem Cells |
-| 6 | Studies of Patients Treated with Stem Cells |
-| 7 | Visit to the Massachusetts General Hospital |
-| 8 | Molecular Bases of Disease |
-| 9 | _In vivo_ Regeneration of Tissues by Cell Transplantation |
-| 10 | IPS Cells as Experimental Models of Neurological Disorders |
-| 11 | Bioartificial Organs |
-| 12 | Tissue Regeneration Driven by Growth Hormones |
-| 13 | Field Trip to Genzyme |
-| 14 | Student Paper Presentations and Discussions
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+An Introduction to Stem Cells
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular and Cellular Bases of Organ Development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cloning of Somatic Cells by Nuclear Transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Therapeutic Uses of Stem Cells
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Studies of Patients Treated with Stem Cells
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to the Massachusetts General Hospital
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Bases of Disease
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_In vivo_ Regeneration of Tissues by Cell Transplantation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+IPS Cells as Experimental Models of Neurological Disorders
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Bioartificial Organs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Tissue Regeneration Driven by Growth Hormones
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to Genzyme
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Student Paper Presentations and Discussions
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
